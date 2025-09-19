@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Features() {
   const features = [
-    {
+    { 
       title: "Collaborative Planning",
       desc: "Plan with friends in real time.",
       img: "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?auto=format&fit=crop&w=800&q=80",
